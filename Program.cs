@@ -4,14 +4,8 @@ public class TuplesExercise
     public static void Main(){
         var TuplesExercise = new TuplesExercise();
         //TuplesExercise.Exercise1();
-        var Exercise2test = TuplesExercise.Exercise2("Ferhat");
-        Console.WriteLine(Exercise2test);
-
-        var ex2item1 = Exercise2test.Item1;
-        var ex2item2 = Exercise2test.Item2;
-
-        Console.WriteLine("item1: " + ex2item1);
-        Console.WriteLine("item2: " + ex2item2);
+        //TuplesExercise.Ex2();
+  
 
     }
 
@@ -47,5 +41,16 @@ public class TuplesExercise
         string uppercasedName = name.ToUpper();
 
         return (length, uppercasedName);
+    }
+    public void Ex2()
+    {
+      var Exercise2test = Exercise2("Ferhat");
+        Console.WriteLine(Exercise2test);
+
+        var ex2item1 = Exercise2test.Item1;
+        var ex2item2 = Exercise2test.Item2;
+
+        Console.WriteLine("item1: " + ex2item1);
+        Console.WriteLine("item2: " + ex2item2);
     }
 }
