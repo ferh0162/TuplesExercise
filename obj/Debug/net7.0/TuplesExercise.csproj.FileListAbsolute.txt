@@ -1,0 +1,15 @@
+/Users/frrt/VSCode/C#/TuplesExercise/bin/Debug/net7.0/TuplesExercise
+/Users/frrt/VSCode/C#/TuplesExercise/bin/Debug/net7.0/TuplesExercise.deps.json
+/Users/frrt/VSCode/C#/TuplesExercise/bin/Debug/net7.0/TuplesExercise.runtimeconfig.json
+/Users/frrt/VSCode/C#/TuplesExercise/bin/Debug/net7.0/TuplesExercise.dll
+/Users/frrt/VSCode/C#/TuplesExercise/bin/Debug/net7.0/TuplesExercise.pdb
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.csproj.AssemblyReference.cache
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.AssemblyInfoInputs.cache
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.AssemblyInfo.cs
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.csproj.CoreCompileInputs.cache
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.dll
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/refint/TuplesExercise.dll
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.pdb
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/TuplesExercise.genruntimeconfig.cache
+/Users/frrt/VSCode/C#/TuplesExercise/obj/Debug/net7.0/ref/TuplesExercise.dll
